@@ -11,6 +11,8 @@ input{
     color: white;
     width: 300px;
     height: 30px;
+    padding: 0px 20px;
+    border-radius: 20px;
     line-height: 30px;
     font-size: 20px;
     margin-bottom: 40px; 
